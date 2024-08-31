@@ -38,4 +38,7 @@
 
 Ответ:
 
-
+![1](https://github.com/Evgenii199130/sql_5/blob/main/scrin/sql_5.1.png)
+![1](https://github.com/Evgenii199130/sql_5/blob/main/scrin/sql_5.2.png)
+![1](https://github.com/Evgenii199130/sql_5/blob/main/scrin/sql_5.3.png)
+![1](https://github.com/Evgenii199130/sql_5/blob/main/scrin/sql_5.4.png)
